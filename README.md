@@ -6,9 +6,8 @@ The chatbot uses **Natural Language Processing (NLP)**, **TF-IDF vectorization**
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Live Demo:** https://techassist-cl88.onrender.com
+🔗 **Live Demo:** 
+https://techassist-cl88.onrender.com
 
 🔗 **GitHub Repository:**  
 https://github.com/tanvi-jpeg/TechAssist
@@ -37,7 +36,7 @@ https://github.com/tanvi-jpeg/TechAssist
 
 TechAssist follows a retrieval-based NLP approach.
 
-```text
+
 User Question
       ↓
 Text Preprocessing
