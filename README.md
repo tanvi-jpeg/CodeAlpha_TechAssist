@@ -36,7 +36,7 @@ https://github.com/tanvi-jpeg/TechAssist
 
 TechAssist follows a retrieval-based NLP approach.
 
-
+``` text
 User Question
       ↓
 Text Preprocessing
