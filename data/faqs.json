@@ -1,0 +1,312 @@
+[
+    {
+        "category": "Internet & Wi-Fi",
+        "question": "My Wi-Fi is not working",
+        "answer": "Check that Wi-Fi is enabled on your device and that your router is powered on. Restart the router and reconnect to the network. If the issue continues, forget the network and connect again."
+    },
+    {
+        "category": "Internet & Wi-Fi",
+        "question": "Why is my internet connection so slow?",
+        "answer": "Slow internet can be caused by network congestion, weak Wi-Fi signals, background downloads, or router problems. Restart your router, move closer to it, and check whether other devices are using significant bandwidth."
+    },
+    {
+        "category": "Internet & Wi-Fi",
+        "question": "How do I connect my laptop to Wi-Fi?",
+        "answer": "Open your device's Wi-Fi settings, make sure Wi-Fi is enabled, select your network, enter the password, and click Connect."
+    },
+    {
+        "category": "Internet & Wi-Fi",
+        "question": "My computer says there is no internet",
+        "answer": "Check whether other devices can access the internet. Restart your router and reconnect your computer to Wi-Fi. If other devices also have no internet, contact your internet service provider."
+    },
+    {
+        "category": "Internet & Wi-Fi",
+        "question": "How can I check my internet speed?",
+        "answer": "You can use a trusted internet speed testing service to check your download speed, upload speed, and latency. For accurate results, pause downloads and connect directly to your router if possible."
+    },
+
+    {
+        "category": "Computer & Laptop",
+        "question": "Why is my laptop running slowly?",
+        "answer": "Close unnecessary applications, restart the laptop, check available storage, and disable unnecessary startup programs. Installing system updates and removing unused software can also improve performance."
+    },
+    {
+        "category": "Computer & Laptop",
+        "question": "My computer is frozen and not responding",
+        "answer": "Wait briefly to see whether the system recovers. If it remains frozen, try closing the unresponsive application. If necessary, restart the computer using the power button."
+    },
+    {
+        "category": "Computer & Laptop",
+        "question": "How do I restart my computer?",
+        "answer": "On Windows, open the Start menu, select the Power option, and choose Restart. Restarting can resolve many temporary software and performance issues."
+    },
+    {
+        "category": "Computer & Laptop",
+        "question": "My laptop is overheating",
+        "answer": "Place the laptop on a hard, flat surface so that the air vents are not blocked. Close unnecessary applications and check whether dust is blocking the ventilation openings. Persistent overheating may require professional inspection."
+    },
+    {
+        "category": "Computer & Laptop",
+        "question": "How do I check how much storage I have?",
+        "answer": "On Windows, open File Explorer and select This PC. You can view the available and used storage for your drives."
+    },
+
+    {
+        "category": "Windows",
+        "question": "How do I take a screenshot on Windows?",
+        "answer": "You can use Windows + Shift + S to select an area of the screen. You can also use the Print Screen key or the Snipping Tool to capture screenshots."
+    },
+    {
+        "category": "Windows",
+        "question": "How do I uninstall a program?",
+        "answer": "Open Windows Settings, go to Apps, select Installed Apps, find the program, and choose Uninstall. Follow the instructions shown on screen."
+    },
+    {
+        "category": "Windows",
+        "question": "How do I update Windows?",
+        "answer": "Open Settings, select Windows Update, and choose Check for updates. Install available updates and restart the computer if required."
+    },
+    {
+        "category": "Windows",
+        "question": "My Windows computer is not starting properly",
+        "answer": "Check that the power cable or charger is connected properly. If the computer powers on but Windows does not start, try restarting it and using Windows recovery options if necessary."
+    },
+    {
+        "category": "Windows",
+        "question": "How do I find my Windows version?",
+        "answer": "Open Settings, select System, then About. You can view your Windows edition and version information there."
+    },
+
+    {
+        "category": "Software",
+        "question": "How do I install software on my computer?",
+        "answer": "Download software from the official website or a trusted application store. Run the installer and follow the installation instructions. Avoid downloading software from unknown sources."
+    },
+    {
+        "category": "Software",
+        "question": "An application is not opening",
+        "answer": "Restart the application and your computer. Check for application updates and make sure your operating system meets the software requirements. Reinstalling the application may help if the problem continues."
+    },
+    {
+        "category": "Software",
+        "question": "A program keeps crashing",
+        "answer": "Update the application and your operating system, restart the computer, and check whether the application has enough system resources. Reinstall the application if the crashes continue."
+    },
+    {
+        "category": "Software",
+        "question": "How do I update an application?",
+        "answer": "Open the application's settings or help menu and look for an update option. If it was installed through an application store, check the store for available updates."
+    },
+    {
+        "category": "Software",
+        "question": "How do I uninstall software completely?",
+        "answer": "Use the operating system's official uninstall feature rather than simply deleting the program folder. On Windows, go to Settings, Apps, Installed Apps, select the application, and choose Uninstall."
+    },
+
+    {
+        "category": "Browser",
+        "question": "How do I clear my browser cache?",
+        "answer": "Open your browser settings, find the privacy or browsing-data section, select cached images and files, and clear the data."
+    },
+    {
+        "category": "Browser",
+        "question": "My browser is running very slowly",
+        "answer": "Close unused tabs, disable unnecessary extensions, clear cached data, and restart the browser. Updating the browser can also resolve performance problems."
+    },
+    {
+        "category": "Browser",
+        "question": "A website is not loading",
+        "answer": "Check your internet connection and try refreshing the page. You can also try another browser, clear the browser cache, or disable problematic extensions."
+    },
+    {
+        "category": "Browser",
+        "question": "How do I update Google Chrome?",
+        "answer": "Open Chrome, select the three-dot menu, go to Help, and choose About Google Chrome. Chrome will automatically check for updates."
+    },
+    {
+        "category": "Browser",
+        "question": "How do I enable private browsing?",
+        "answer": "Most browsers provide a private or incognito browsing option in their menu. In Chrome, select the three-dot menu and choose New Incognito Window."
+    },
+
+    {
+        "category": "Accounts & Passwords",
+        "question": "I forgot my password",
+        "answer": "Use the password reset or Forgot Password option on the service's login page. Follow the verification steps to create a new password."
+    },
+    {
+        "category": "Accounts & Passwords",
+        "question": "How can I create a strong password?",
+        "answer": "Use a long and unique password that combines multiple types of characters. Avoid using easily guessed information such as your name, birthday, or common words. A password manager can help generate and store strong passwords."
+    },
+    {
+        "category": "Accounts & Passwords",
+        "question": "What should I do if my account is locked?",
+        "answer": "Wait for the temporary lock period if applicable and use the official account recovery process. If you believe someone accessed your account, change the password and contact the service provider."
+    },
+    {
+        "category": "Accounts & Passwords",
+        "question": "How do I enable two factor authentication?",
+        "answer": "Open your account security settings and look for two-factor authentication or multi-factor authentication. Follow the setup instructions and configure an authenticator app or another supported verification method."
+    },
+    {
+        "category": "Accounts & Passwords",
+        "question": "Someone may have accessed my account",
+        "answer": "Change your password immediately, sign out of unfamiliar sessions, enable two-factor authentication, and review recent account activity. Contact the service provider if you notice suspicious activity."
+    },
+
+    {
+        "category": "Printers",
+        "question": "My printer is not printing",
+        "answer": "Check that the printer is powered on, connected correctly, has paper and ink or toner, and is selected as the active printer. Restarting both the printer and computer may also help."
+    },
+    {
+        "category": "Printers",
+        "question": "How do I connect a printer to Wi-Fi?",
+        "answer": "Use the printer's control panel or setup application to select your Wi-Fi network and enter the network password. Make sure the printer is within range of the router."
+    },
+    {
+        "category": "Printers",
+        "question": "My printer says it is offline",
+        "answer": "Check the printer's power and network connection. Restart the printer and computer, then verify that the correct printer is selected in your system's printer settings."
+    },
+    {
+        "category": "Printers",
+        "question": "How do I install a printer driver?",
+        "answer": "Download the latest driver from the printer manufacturer's official website or use the operating system's printer setup process. Follow the installation instructions for your printer model."
+    },
+    {
+        "category": "Printers",
+        "question": "My printed pages have poor quality",
+        "answer": "Check the ink or toner level and clean the print heads if your printer supports this function. Make sure you are using appropriate paper and print-quality settings."
+    },
+
+    {
+        "category": "Bluetooth & Devices",
+        "question": "My Bluetooth device is not connecting",
+        "answer": "Make sure Bluetooth is enabled and the accessory is discoverable. Try turning Bluetooth off and on, then remove and pair the device again."
+    },
+    {
+        "category": "Bluetooth & Devices",
+        "question": "How do I connect Bluetooth headphones?",
+        "answer": "Turn on Bluetooth on your computer or phone and put the headphones into pairing mode. Select the headphones from the list of available Bluetooth devices."
+    },
+    {
+        "category": "Bluetooth & Devices",
+        "question": "My Bluetooth headphones keep disconnecting",
+        "answer": "Make sure the headphones have sufficient battery and remain within Bluetooth range. Remove the device from Bluetooth settings and pair it again. Updating device drivers may also help."
+    },
+    {
+        "category": "Bluetooth & Devices",
+        "question": "How do I connect my phone to my laptop?",
+        "answer": "You can connect your phone using Bluetooth, USB, or Wi-Fi depending on what you want to accomplish. For file transfers, a USB connection or supported wireless sharing feature can be used."
+    },
+    {
+        "category": "Bluetooth & Devices",
+        "question": "My USB device is not recognized",
+        "answer": "Disconnect and reconnect the device, try another USB port, and restart the computer. If the device still is not recognized, check for driver or hardware problems."
+    },
+
+    {
+        "category": "Security",
+        "question": "How can I protect my computer from viruses?",
+        "answer": "Keep your operating system and applications updated, use reputable security software, avoid suspicious downloads and links, and regularly back up important files."
+    },
+    {
+        "category": "Security",
+        "question": "How do I know if an email is a phishing email?",
+        "answer": "Be cautious of unexpected messages requesting passwords, payments, or personal information. Check the sender address carefully and avoid clicking suspicious links or opening unexpected attachments."
+    },
+    {
+        "category": "Security",
+        "question": "Should I use antivirus software?",
+        "answer": "Using reputable security software can provide additional protection against malware. Keep it updated and combine it with safe browsing and downloading practices."
+    },
+    {
+        "category": "Security",
+        "question": "How often should I back up my files?",
+        "answer": "Important files should be backed up regularly. The appropriate frequency depends on how often your data changes. Keep at least one backup separate from your main device."
+    },
+    {
+        "category": "Security",
+        "question": "What should I do if I clicked a suspicious link?",
+        "answer": "Do not enter any personal information on the suspicious website. Close the page, run a security scan if appropriate, change affected passwords, and monitor your accounts for unusual activity."
+    },
+
+    {
+        "category": "Programming",
+        "question": "How do I install Python?",
+        "answer": "Download Python from the official Python website and run the installer. On Windows, make sure the option to add Python to PATH is selected during installation."
+    },
+    {
+        "category": "Programming",
+        "question": "How do I check my Python version?",
+        "answer": "Open a terminal or command prompt and run 'python --version'. On some Windows systems, you can also use 'py --version'."
+    },
+    {
+        "category": "Programming",
+        "question": "How do I create a Python virtual environment?",
+        "answer": "Open a terminal in your project folder and run 'python -m venv .venv'. Activate the environment using the appropriate command for your operating system."
+    },
+    {
+        "category": "Programming",
+        "question": "How do I install a Python package?",
+        "answer": "Use pip from your terminal. For example, run 'pip install package-name'. It is recommended to install packages inside a virtual environment for project isolation."
+    },
+    {
+        "category": "Programming",
+        "question": "Why am I getting a ModuleNotFoundError in Python?",
+        "answer": "The required package may not be installed, or your IDE may be using a different Python environment. Check the active interpreter and install the missing package using pip."
+    },
+
+    {
+        "category": "General Troubleshooting",
+        "question": "How do I restart my device?",
+        "answer": "Save your work, close your applications, and use the operating system's Restart option. Restarting often resolves temporary software or connectivity problems."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "Why should I restart my computer?",
+        "answer": "Restarting clears temporary system states, refreshes software processes, and can resolve many temporary performance, connectivity, and application issues."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "How do I troubleshoot a technical problem?",
+        "answer": "Start by identifying what changed, reproduce the problem if possible, check connections and error messages, restart the affected device or application, and test one solution at a time."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "My computer has no sound",
+        "answer": "Check the volume level and make sure the device is not muted. Verify that the correct audio output device is selected and check the speaker or headphone connection."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "My webcam is not working",
+        "answer": "Check that the camera is connected and that the application has permission to access it. Close other applications that may be using the camera and update the camera driver if necessary."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "My keyboard is not working",
+        "answer": "Reconnect the keyboard or try another USB port. For wireless keyboards, check the battery and reconnect the device. Restart the computer and check for driver issues if the problem continues."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "My mouse is not responding",
+        "answer": "Reconnect the mouse or try another USB port. For wireless mice, check the battery and wireless connection. Restart the computer if the issue persists."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "How do I contact technical support?",
+        "answer": "Use the official support page or help center for the product or service. Provide the device or software details, describe the problem clearly, and include any relevant error messages."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "What information should I provide when reporting a technical issue?",
+        "answer": "Include the device model, operating system, application or service involved, a clear description of the problem, steps to reproduce it, and any error messages or screenshots."
+    },
+    {
+        "category": "General Troubleshooting",
+        "question": "What should I do before asking for technical support?",
+        "answer": "Restart the affected device or application, check your internet and physical connections, read any displayed error messages, and note what you were doing when the problem occurred."
+    }
+]
